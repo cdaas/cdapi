@@ -1,0 +1,7 @@
+falcon
+peewee
+psycopg2
+gunicorn
+requests
+kubernetes
+openshift
